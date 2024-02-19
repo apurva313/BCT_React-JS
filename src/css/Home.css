@@ -1,0 +1,16 @@
+.main ul{
+    display: flex;
+    float: right;
+  
+  }
+  
+  .main li{
+    padding: 10px;
+    list-style-type: none;
+  
+  }
+
+  a{
+        text-decoration: none;
+        
+  }
